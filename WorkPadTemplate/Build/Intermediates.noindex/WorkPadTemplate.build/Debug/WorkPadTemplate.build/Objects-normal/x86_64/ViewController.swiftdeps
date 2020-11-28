@@ -1,0 +1,574 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "outString"
+- "sum"
+- "ViewController"
+provides-nominal:
+- "15WorkPadTemplate14ViewControllerC"
+provides-member:
+- ["15WorkPadTemplate14ViewControllerC", ""]
+provides-dynamic-lookup:
+- "goButton"
+- "inputEnded"
+- "inputWindow"
+- "mainWindow"
+- "promptWindow"
+- "representedObject"
+- "viewDidLoad"
+depends-top-level:
+- !private "+"
+- !private "+="
+- !private "..."
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- !private "Int"
+- "IntegerLiteralType"
+- "NSTextField"
+- "NSViewController"
+- !private "String"
+- "StringLiteralType"
+- !private "UnicodeScalarType"
+- "ViewController"
+- !private "inputWindow"
+- !private "mainWindow"
+- "outString"
+- !private "promptWindow"
+- "sum"
+depends-member:
+- !private ["s18AdditiveArithmeticP", ""]
+- !private ["s18AdditiveArithmeticP", "init"]
+- !private ["SK", ""]
+- !private ["SK", "append"]
+- !private ["SK", "init"]
+- !private ["Sz", ""]
+- !private ["Sz", "init"]
+- !private ["8CloudKit21CKRecordValueProtocolP", "append"]
+- !private ["8CloudKit21CKRecordValueProtocolP", "init"]
+- !private ["s7CVarArgP", "Int"]
+- !private ["s7CVarArgP", "String"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "goButton"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "inputEnded"]
+- !private ["s7CVarArgP", "inputWindow"]
+- !private ["s7CVarArgP", "mainWindow"]
+- !private ["s7CVarArgP", "outString"]
+- !private ["s7CVarArgP", "promptWindow"]
+- !private ["s7CVarArgP", "stringValue"]
+- !private ["s7CVarArgP", "sum"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", ""]
+- !private ["Sl", "append"]
+- !private ["Sl", "init"]
+- !private ["SL", ""]
+- !private ["SL", "append"]
+- !private ["SL", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "Int"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "goButton"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "inputEnded"]
+- !private ["s28CustomDebugStringConvertibleP", "inputWindow"]
+- !private ["s28CustomDebugStringConvertibleP", "mainWindow"]
+- !private ["s28CustomDebugStringConvertibleP", "outString"]
+- !private ["s28CustomDebugStringConvertibleP", "promptWindow"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "sum"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "Int"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "goButton"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "inputEnded"]
+- !private ["s23CustomStringConvertibleP", "inputWindow"]
+- !private ["s23CustomStringConvertibleP", "mainWindow"]
+- !private ["s23CustomStringConvertibleP", "outString"]
+- !private ["s23CustomStringConvertibleP", "promptWindow"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "sum"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "append"]
+- !private ["Se", "init"]
+- !private ["Se", "stringValue"]
+- !private ["SE", "append"]
+- !private ["SE", "init"]
+- !private ["SE", "stringValue"]
+- !private ["SQ", "Int"]
+- !private ["SQ", "String"]
+- ["SQ", ""]
+- !private ["SQ", "append"]
+- !private ["SQ", "goButton"]
+- !private ["SQ", "init"]
+- !private ["SQ", "inputEnded"]
+- !private ["SQ", "inputWindow"]
+- !private ["SQ", "mainWindow"]
+- !private ["SQ", "outString"]
+- !private ["SQ", "promptWindow"]
+- !private ["SQ", "stringValue"]
+- !private ["SQ", "sum"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", ""]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s27ExpressibleByIntegerLiteralP", ""]
+- !private ["s27ExpressibleByIntegerLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "stringValue"]
+- !private ["s32ExpressibleByStringInterpolationP", ""]
+- !private ["s32ExpressibleByStringInterpolationP", "append"]
+- !private ["s32ExpressibleByStringInterpolationP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", ""]
+- !private ["s26ExpressibleByStringLiteralP", "append"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", ""]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "append"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s17FixedWidthIntegerP", "init"]
+- !private ["SH", "Int"]
+- !private ["SH", "String"]
+- ["SH", ""]
+- !private ["SH", "append"]
+- !private ["SH", "goButton"]
+- !private ["SH", "init"]
+- !private ["SH", "inputEnded"]
+- !private ["SH", "inputWindow"]
+- !private ["SH", "mainWindow"]
+- !private ["SH", "outString"]
+- !private ["SH", "promptWindow"]
+- !private ["SH", "stringValue"]
+- !private ["SH", "sum"]
+- !private ["SH", "viewDidLoad"]
+- !private ["Si", "init"]
+- !private ["s25LosslessStringConvertibleP", ""]
+- !private ["s25LosslessStringConvertibleP", "append"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "append"]
+- !private ["s10MirrorPathP", "init"]
+- ["So22NSAccessibilityElementP", ""]
+- !private ["So22NSAccessibilityElementP", "stringValue"]
+- !private ["So34NSAccessibilityNavigableStaticTextP", "stringValue"]
+- !private ["So15NSAccessibilityP", ""]
+- !private ["So15NSAccessibilityP", "stringValue"]
+- ["So25NSAccessibilityStaticTextP", ""]
+- !private ["So25NSAccessibilityStaticTextP", "stringValue"]
+- !private ["So29NSAnimatablePropertyContainerP", ""]
+- !private ["So29NSAnimatablePropertyContainerP", "stringValue"]
+- !private ["So25NSAppearanceCustomizationP", ""]
+- !private ["So25NSAppearanceCustomizationP", "stringValue"]
+- !private ["So8NSCodingP", "Int"]
+- ["So8NSCodingP", "NSTextField"]
+- !private ["So8NSCodingP", "String"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "append"]
+- ["So8NSCodingP", "goButton"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "inputEnded"]
+- ["So8NSCodingP", "inputWindow"]
+- ["So8NSCodingP", "mainWindow"]
+- !private ["So8NSCodingP", "outString"]
+- ["So8NSCodingP", "promptWindow"]
+- ["So8NSCodingP", "representedObject"]
+- !private ["So8NSCodingP", "stringValue"]
+- !private ["So8NSCodingP", "sum"]
+- ["So8NSCodingP", "viewDidLoad"]
+- ["So9NSControlC", ""]
+- !private ["So9NSControlC", "stringValue"]
+- !private ["So9NSCopyingP", "append"]
+- !private ["So21NSDraggingDestinationP", ""]
+- !private ["So21NSDraggingDestinationP", "stringValue"]
+- !private ["So8NSEditorP", "Int"]
+- ["So8NSEditorP", "NSTextField"]
+- !private ["So8NSEditorP", "String"]
+- ["So8NSEditorP", ""]
+- ["So8NSEditorP", "goButton"]
+- ["So8NSEditorP", "init"]
+- ["So8NSEditorP", "inputEnded"]
+- ["So8NSEditorP", "inputWindow"]
+- ["So8NSEditorP", "mainWindow"]
+- !private ["So8NSEditorP", "outString"]
+- ["So8NSEditorP", "promptWindow"]
+- ["So8NSEditorP", "representedObject"]
+- !private ["So8NSEditorP", "sum"]
+- ["So8NSEditorP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Int"]
+- ["So26NSExtensionRequestHandlingP", "NSTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "String"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "goButton"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "inputEnded"]
+- ["So26NSExtensionRequestHandlingP", "inputWindow"]
+- ["So26NSExtensionRequestHandlingP", "mainWindow"]
+- !private ["So26NSExtensionRequestHandlingP", "outString"]
+- ["So26NSExtensionRequestHandlingP", "promptWindow"]
+- ["So26NSExtensionRequestHandlingP", "representedObject"]
+- !private ["So26NSExtensionRequestHandlingP", "sum"]
+- ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "append"]
+- !private ["So21NSItemProviderWritingP", "append"]
+- !private ["So16NSMutableCopyingP", "append"]
+- !private ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "NSTextField"]
+- !private ["So8NSObjectC", "String"]
+- ["So8NSObjectC", ""]
+- !private ["So8NSObjectC", "append"]
+- ["So8NSObjectC", "goButton"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "inputEnded"]
+- ["So8NSObjectC", "inputWindow"]
+- ["So8NSObjectC", "mainWindow"]
+- !private ["So8NSObjectC", "outString"]
+- ["So8NSObjectC", "promptWindow"]
+- ["So8NSObjectC", "representedObject"]
+- !private ["So8NSObjectC", "stringValue"]
+- !private ["So8NSObjectC", "sum"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Int"]
+- ["So8NSObjectP", "NSTextField"]
+- !private ["So8NSObjectP", "String"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "append"]
+- ["So8NSObjectP", "goButton"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "inputEnded"]
+- ["So8NSObjectP", "inputWindow"]
+- ["So8NSObjectP", "mainWindow"]
+- !private ["So8NSObjectP", "outString"]
+- ["So8NSObjectP", "promptWindow"]
+- ["So8NSObjectP", "representedObject"]
+- !private ["So8NSObjectP", "stringValue"]
+- !private ["So8NSObjectP", "sum"]
+- ["So8NSObjectP", "viewDidLoad"]
+- !private ["So19NSPasteboardReadingP", "append"]
+- !private ["So19NSPasteboardWritingP", "append"]
+- !private ["So11NSResponderC", "Int"]
+- ["So11NSResponderC", "NSTextField"]
+- !private ["So11NSResponderC", "String"]
+- ["So11NSResponderC", ""]
+- ["So11NSResponderC", "goButton"]
+- ["So11NSResponderC", "init"]
+- ["So11NSResponderC", "inputEnded"]
+- ["So11NSResponderC", "inputWindow"]
+- ["So11NSResponderC", "mainWindow"]
+- !private ["So11NSResponderC", "outString"]
+- ["So11NSResponderC", "promptWindow"]
+- ["So11NSResponderC", "representedObject"]
+- !private ["So11NSResponderC", "stringValue"]
+- !private ["So11NSResponderC", "sum"]
+- ["So11NSResponderC", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "append"]
+- !private ["So17NSSeguePerformingP", "Int"]
+- ["So17NSSeguePerformingP", "NSTextField"]
+- !private ["So17NSSeguePerformingP", "String"]
+- ["So17NSSeguePerformingP", ""]
+- ["So17NSSeguePerformingP", "goButton"]
+- ["So17NSSeguePerformingP", "init"]
+- ["So17NSSeguePerformingP", "inputEnded"]
+- ["So17NSSeguePerformingP", "inputWindow"]
+- ["So17NSSeguePerformingP", "mainWindow"]
+- !private ["So17NSSeguePerformingP", "outString"]
+- ["So17NSSeguePerformingP", "promptWindow"]
+- ["So17NSSeguePerformingP", "representedObject"]
+- !private ["So17NSSeguePerformingP", "sum"]
+- ["So17NSSeguePerformingP", "viewDidLoad"]
+- !private ["So30NSStandardKeyBindingRespondingP", "Int"]
+- ["So30NSStandardKeyBindingRespondingP", "NSTextField"]
+- !private ["So30NSStandardKeyBindingRespondingP", "String"]
+- ["So30NSStandardKeyBindingRespondingP", ""]
+- ["So30NSStandardKeyBindingRespondingP", "goButton"]
+- ["So30NSStandardKeyBindingRespondingP", "init"]
+- ["So30NSStandardKeyBindingRespondingP", "inputEnded"]
+- ["So30NSStandardKeyBindingRespondingP", "inputWindow"]
+- ["So30NSStandardKeyBindingRespondingP", "mainWindow"]
+- !private ["So30NSStandardKeyBindingRespondingP", "outString"]
+- ["So30NSStandardKeyBindingRespondingP", "promptWindow"]
+- ["So30NSStandardKeyBindingRespondingP", "representedObject"]
+- !private ["So30NSStandardKeyBindingRespondingP", "stringValue"]
+- !private ["So30NSStandardKeyBindingRespondingP", "sum"]
+- ["So30NSStandardKeyBindingRespondingP", "viewDidLoad"]
+- !private ["So8NSStringC", "append"]
+- !private ["So13NSTextContentP", "stringValue"]
+- !private ["So11NSTextFieldC", "stringValue"]
+- !private ["So18NSTouchBarProviderP", "Int"]
+- ["So18NSTouchBarProviderP", "NSTextField"]
+- !private ["So18NSTouchBarProviderP", "String"]
+- ["So18NSTouchBarProviderP", ""]
+- ["So18NSTouchBarProviderP", "goButton"]
+- ["So18NSTouchBarProviderP", "init"]
+- ["So18NSTouchBarProviderP", "inputEnded"]
+- ["So18NSTouchBarProviderP", "inputWindow"]
+- ["So18NSTouchBarProviderP", "mainWindow"]
+- !private ["So18NSTouchBarProviderP", "outString"]
+- ["So18NSTouchBarProviderP", "promptWindow"]
+- ["So18NSTouchBarProviderP", "representedObject"]
+- !private ["So18NSTouchBarProviderP", "stringValue"]
+- !private ["So18NSTouchBarProviderP", "sum"]
+- ["So18NSTouchBarProviderP", "viewDidLoad"]
+- !private ["So23NSUserActivityRestoringP", "Int"]
+- ["So23NSUserActivityRestoringP", "NSTextField"]
+- !private ["So23NSUserActivityRestoringP", "String"]
+- ["So23NSUserActivityRestoringP", ""]
+- ["So23NSUserActivityRestoringP", "goButton"]
+- ["So23NSUserActivityRestoringP", "init"]
+- ["So23NSUserActivityRestoringP", "inputEnded"]
+- ["So23NSUserActivityRestoringP", "inputWindow"]
+- ["So23NSUserActivityRestoringP", "mainWindow"]
+- !private ["So23NSUserActivityRestoringP", "outString"]
+- ["So23NSUserActivityRestoringP", "promptWindow"]
+- ["So23NSUserActivityRestoringP", "representedObject"]
+- !private ["So23NSUserActivityRestoringP", "stringValue"]
+- !private ["So23NSUserActivityRestoringP", "sum"]
+- ["So23NSUserActivityRestoringP", "viewDidLoad"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "Int"]
+- ["So33NSUserInterfaceItemIdentificationP", "NSTextField"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "String"]
+- ["So33NSUserInterfaceItemIdentificationP", ""]
+- ["So33NSUserInterfaceItemIdentificationP", "goButton"]
+- ["So33NSUserInterfaceItemIdentificationP", "init"]
+- ["So33NSUserInterfaceItemIdentificationP", "inputEnded"]
+- ["So33NSUserInterfaceItemIdentificationP", "inputWindow"]
+- ["So33NSUserInterfaceItemIdentificationP", "mainWindow"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "outString"]
+- ["So33NSUserInterfaceItemIdentificationP", "promptWindow"]
+- ["So33NSUserInterfaceItemIdentificationP", "representedObject"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "stringValue"]
+- !private ["So33NSUserInterfaceItemIdentificationP", "sum"]
+- ["So33NSUserInterfaceItemIdentificationP", "viewDidLoad"]
+- !private ["So26NSUserInterfaceValidationsP", "stringValue"]
+- ["So6NSViewC", ""]
+- !private ["So6NSViewC", "stringValue"]
+- !private ["So16NSViewControllerC", "Int"]
+- ["So16NSViewControllerC", "NSTextField"]
+- !private ["So16NSViewControllerC", "String"]
+- ["So16NSViewControllerC", ""]
+- ["So16NSViewControllerC", "goButton"]
+- ["So16NSViewControllerC", "init"]
+- ["So16NSViewControllerC", "inputEnded"]
+- ["So16NSViewControllerC", "inputWindow"]
+- ["So16NSViewControllerC", "mainWindow"]
+- !private ["So16NSViewControllerC", "outString"]
+- ["So16NSViewControllerC", "promptWindow"]
+- ["So16NSViewControllerC", "representedObject"]
+- !private ["So16NSViewControllerC", "sum"]
+- ["So16NSViewControllerC", "viewDidLoad"]
+- !private ["Sj", ""]
+- !private ["Sj", "init"]
+- !private ["Sq", "stringValue"]
+- !private ["Sm", "append"]
+- !private ["Sm", "init"]
+- !private ["s10SIMDScalarP", "init"]
+- !private ["ST", "Element"]
+- !private ["ST", "Iterator"]
+- !private ["ST", ""]
+- !private ["ST", "append"]
+- !private ["ST", "init"]
+- !private ["ST", "makeIterator"]
+- !private ["SZ", "init"]
+- !private ["s13SignedNumericP", ""]
+- !private ["s13SignedNumericP", "init"]
+- !private ["Sx", ""]
+- !private ["Sx", "init"]
+- !private ["SS", "append"]
+- !private ["SS", "init"]
+- !private ["Sy", "append"]
+- !private ["Sy", "init"]
+- !private ["s16TextOutputStreamP", ""]
+- !private ["s16TextOutputStreamP", "append"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", ""]
+- !private ["s20TextOutputStreamableP", "append"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["15WorkPadTemplate14ViewControllerC", "Int"]
+- ["15WorkPadTemplate14ViewControllerC", "NSTextField"]
+- !private ["15WorkPadTemplate14ViewControllerC", "String"]
+- ["15WorkPadTemplate14ViewControllerC", ""]
+- ["15WorkPadTemplate14ViewControllerC", "deinit"]
+- ["15WorkPadTemplate14ViewControllerC", "goButton"]
+- ["15WorkPadTemplate14ViewControllerC", "init"]
+- ["15WorkPadTemplate14ViewControllerC", "inputEnded"]
+- ["15WorkPadTemplate14ViewControllerC", "inputWindow"]
+- ["15WorkPadTemplate14ViewControllerC", "mainWindow"]
+- !private ["15WorkPadTemplate14ViewControllerC", "outString"]
+- ["15WorkPadTemplate14ViewControllerC", "promptWindow"]
+- ["15WorkPadTemplate14ViewControllerC", "representedObject"]
+- !private ["15WorkPadTemplate14ViewControllerC", "sum"]
+- ["15WorkPadTemplate14ViewControllerC", "viewDidLoad"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "append"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", ""]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "append"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s35_ExpressibleByBuiltinIntegerLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "append"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", ""]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "append"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Int"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "append"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "goButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "inputEnded"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "inputWindow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mainWindow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "outString"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "promptWindow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stringValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "sum"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Int"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "String"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "append"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "goButton"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "inputEnded"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "inputWindow"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mainWindow"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "outString"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "promptWindow"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "stringValue"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "sum"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_ObjectiveCType"]
+- !private ["s21_ObjectiveCBridgeableP", "_bridgeToObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "_conditionallyBridgeFromObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "_forceBridgeFromObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "_unconditionallyBridgeFromObjectiveC"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "stringValue"]
+- !private ["So13CKRecordValueP", "append"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "stringValue"]
+depends-nominal:
+- !private "s18AdditiveArithmeticP"
+- !private "SK"
+- !private "Sz"
+- !private "8CloudKit21CKRecordValueProtocolP"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s17FixedWidthIntegerP"
+- "SH"
+- !private "Si"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So22NSAccessibilityElementP"
+- !private "So34NSAccessibilityNavigableStaticTextP"
+- !private "So15NSAccessibilityP"
+- "So25NSAccessibilityStaticTextP"
+- !private "So29NSAnimatablePropertyContainerP"
+- !private "So25NSAppearanceCustomizationP"
+- "So8NSCodingP"
+- "So9NSControlC"
+- !private "So9NSCopyingP"
+- !private "So21NSDraggingDestinationP"
+- "So8NSEditorP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So19NSPasteboardReadingP"
+- !private "So19NSPasteboardWritingP"
+- "So11NSResponderC"
+- !private "So14NSSecureCodingP"
+- "So17NSSeguePerformingP"
+- "So30NSStandardKeyBindingRespondingP"
+- !private "So8NSStringC"
+- !private "So13NSTextContentP"
+- !private "So11NSTextFieldC"
+- "So18NSTouchBarProviderP"
+- "So23NSUserActivityRestoringP"
+- "So33NSUserInterfaceItemIdentificationP"
+- !private "So26NSUserInterfaceValidationsP"
+- "So6NSViewC"
+- "So16NSViewControllerC"
+- !private "Sj"
+- !private "Sq"
+- !private "Sm"
+- !private "s10SIMDScalarP"
+- !private "ST"
+- !private "SZ"
+- !private "s13SignedNumericP"
+- !private "Sx"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- "15WorkPadTemplate14ViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s35_ExpressibleByBuiltinIntegerLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "So13CKRecordValueP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/XPC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/ObjectiveC.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreData.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreImage.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/QuartzCore.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Dispatch.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Metal.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Darwin.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreLocation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Foundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreFoundation.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CoreGraphics.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/IOKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/CloudKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/AppKit.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/dyld.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CloudKit.framework/Headers/CloudKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f82c1ad3c06831273614a3b76a942f13"

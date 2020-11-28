@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+options: "f18d3711e947fe8020f0b19655701d6b"
+build_time: [1606347735, 216541000]
+inputs:
+  "/Users/jefflastofka/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/WorkPadTemplate/WorkPadTemplate/ViewController.swift": [1606347735, 89464370]
+  "/Users/jefflastofka/Library/Mobile Documents/com~apple~CloudDocs/Programming/Swift/WorkPadTemplate/WorkPadTemplate/AppDelegate.swift": [1606343266, 526234881]
